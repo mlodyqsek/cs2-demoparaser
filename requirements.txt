@@ -1,0 +1,8 @@
+streamlit
+demoparser2
+pandas
+plotly
+seaborn
+matplotlib
+numpy
+pillow
