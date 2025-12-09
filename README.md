@@ -18,7 +18,6 @@ streamlit run frontend/app.py  --server.maxUploadSize 2048
 - **HS% (Headshot Percentage)** - Accuracy measurement
 - **ADR (Average Damage per Round)** - Damage efficiency
 - **Multi-Kill Score** - Performance in rapid eliminations
-- **Clutch Score** - Performance in 1vX situations
 - **Crosshair Placement & Accuracy** - Shooting precision metrics
 - **Time-to-Damage** - Reaction time analysis
 
@@ -171,5 +170,6 @@ streamlit run frontend/app.py
 ---
 
 **Happy analyzing! 🎯**
+
 
 **Note**: This project is not affiliated with Valve Corporation or Counter-Strike. All product names, logos, and brands are property of their respective owners.
